@@ -1,0 +1,19 @@
+{
+  "projects": {
+    "default": "projeto-edb07"
+  },
+  "targets": {
+    "projeto-edb07": {
+      "storage": {
+        "main": [
+          "projeto.appspot.com"
+        ]
+      },
+      "database": {
+        "main": [
+          "projeto.firebase.com"
+        ]
+      }
+    }
+  }
+}
